@@ -1,0 +1,14 @@
+#header {
+  display: flex;
+  justify-content: center;
+  align-self: center;
+  font-size: 20vh;
+}
+
+.images {
+  display: flex;
+  justify-content: center;
+  align-self: center;
+  gap: 10vh;
+  background-color: yellow
+}
